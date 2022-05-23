@@ -1,4 +1,4 @@
-package vn.zalopay.springapi;
+package vn.bkcom.vlerapp;
 
 import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -10,8 +10,8 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
-import vn.zalopay.springapi.model.Book;
-import vn.zalopay.springapi.model.Response;
+import vn.bkcom.vlerapp.model.Book;
+import vn.bkcom.vlerapp.model.Response;
 
 /**
  * </br></br>Copyright 2021, ZaloPay. All rights reserved.

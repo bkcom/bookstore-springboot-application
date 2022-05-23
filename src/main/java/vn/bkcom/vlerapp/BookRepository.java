@@ -1,4 +1,4 @@
-package vn.zalopay.springapi;
+package vn.bkcom.vlerapp;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
@@ -8,7 +8,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.dao.EmptyResultDataAccessException;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
-import vn.zalopay.springapi.model.Book;
+import vn.bkcom.vlerapp.model.Book;
 
 /**
  * </br></br>Copyright 2021, ZaloPay. All rights reserved.

@@ -1,4 +1,4 @@
-package vn.zalopay.springapi.model;
+package vn.bkcom.vlerapp.model;
 
 public class Response {
 
