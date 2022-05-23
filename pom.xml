@@ -9,11 +9,11 @@
     <version>2.4.4</version>
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
-  <groupId>vn.zalopay</groupId>
-  <artifactId>spring-api</artifactId>
+  <groupId>vn.bkcom</groupId>
+  <artifactId>vler-app</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>spring-api</name>
-  <description>Spring API</description>
+  <name>vler-app</name>
+  <description>VLer App</description>
   <properties>
     <java.version>1.8</java.version>
   </properties>
